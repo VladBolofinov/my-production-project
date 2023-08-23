@@ -7,7 +7,7 @@
     "noImplicitAny": true,
     "module": "ESNext",
     "target": "es5", //в какую версию будет компилироваться
-    "jsx": "react",
+    "jsx": "react-jsx",
     "allowJs": true,//компилятор будет обрабатывать не только ts файлы но js
     "moduleResolution": "node",//определяет какие импорты будут ('node'/'classic')
     //"baseUrl": ".",//для абсолютного импорта
